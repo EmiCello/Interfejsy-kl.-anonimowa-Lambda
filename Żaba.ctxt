@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=\u017Baba
+comment1.params=
+comment1.target=\u017Baba()
+comment2.params=
+comment2.target=void\ wykonajRuch()
+comment3.params=JUMPSIZE
+comment3.target=void\ jump(int)
+comment4.params=
+comment4.target=void\ znikam()
+comment5.params=
+comment5.target=void\ znikamPrzezKlikni\u0119cie()
+numComments=6

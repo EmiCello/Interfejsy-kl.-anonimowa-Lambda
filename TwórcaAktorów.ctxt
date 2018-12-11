@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Tw\u00F3rcaAktor\u00F3w
+comment1.params=
+comment1.target=void\ act()
+comment2.params=fabrykaAktor\u00F3w\ odKiedyTworzy\u0107Aktora\ coIleTworzy\u0107Aktora
+comment2.target=void\ zle\u0107OkresoweTworzenieAktora(FabrykaAktor\u00F3w,\ int,\ int)
+numComments=3

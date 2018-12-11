@@ -1,0 +1,27 @@
+#BlueJ class context
+comment0.target=MyWorld
+comment1.params=
+comment1.target=MyWorld()
+comment10.params=
+comment10.target=AktorZPo\u0142o\u017Ceniem\ zr\u00F3bAktoraZPo\u0142o\u017Ceniem()
+comment11.params=po\u0142o\u017CenieCytryny
+comment11.target=CytrynaPo\u0142o\u017Cenie\ dajPo\u0142o\u017CenieCytryna(CytrynaPo\u0142o\u017Cenie)
+comment12.params=doIlu\ opr\u00F3cz
+comment12.target=int\ wylosujLiczb\u0119(int,\ int)
+comment2.params=
+comment2.target=AktorZPo\u0142o\u017Ceniem\ zr\u00F3bAktoraZPo\u0142o\u017Ceniem()
+comment3.params=po\u0142o\u017CenieBanana
+comment3.target=BananPo\u0142o\u017Cenie\ dajNowePo\u0142o\u017CenieBanana(BananPo\u0142o\u017Cenie)
+comment4.params=po\u0142o\u017CenieBanana\ randomDirection
+comment4.target=BananPo\u0142o\u017Cenie\ dajPo\u0142o\u017CenieX(BananPo\u0142o\u017Cenie,\ int)
+comment5.params=po\u0142o\u017CenieBanana\ randomDirection
+comment5.target=BananPo\u0142o\u017Cenie\ dajPo\u0142o\u017CenieY(BananPo\u0142o\u017Cenie,\ int)
+comment6.params=
+comment6.target=AktorZPo\u0142o\u017Ceniem\ zr\u00F3bAktoraZPo\u0142o\u017Ceniem()
+comment7.params=po\u0142o\u017CenieMisia
+comment7.target=Mi\u015BPo\u0142o\u017Cenie\ dajNowePo\u0142o\u017CenieMisia(Mi\u015BPo\u0142o\u017Cenie)
+comment8.params=
+comment8.target=AktorZPo\u0142o\u017Ceniem\ zr\u00F3bAktoraZPo\u0142o\u017Ceniem()
+comment9.params=po\u0142o\u017CenieTel
+comment9.target=TelefonPo\u0142o\u017Cenie\ dajNowyxPhone(TelefonPo\u0142o\u017Cenie)
+numComments=13
